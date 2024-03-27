@@ -31,4 +31,4 @@ Queremos que nuestro libro sea totalmente gratis y accesible online para todo el
 
 ## ¿Cómo colaborar?
 
-A parte de contribuciones monetarias, también aceptamos contribuciones de código y capítulos nuevos. Si has encontrado una errata, un concepto cuya explicación no queda clara, o quieres añadir un nuevo capítulo, estaríamos encantados de escucharte. Siéntete libre de contactarnos a través de las redes sociales o en ellibrodepython@gmail.com
+Aceptamos contribuciones con mejoras y capítulos nuevos. Si has encontrado una errata, un concepto cuya explicación no queda clara, o quieres añadir un nuevo capítulo, estaríamos encantados de escucharte. Todos nuestros posts son abiertos y aceptamos *Pull Requests* a [ellibrodepython/blog](https://github.com/ellibrodepython/blog) con estos cambios. También, siéntete libre de contactarnos a través de las redes sociales o en ellibrodepython@gmail.com
