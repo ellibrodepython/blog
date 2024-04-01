@@ -152,7 +152,7 @@ plt.show()
 
 En la siguiente figura podemos ver la diferencia. El método de horner es mucho más eficiente.
 
-<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/naive_vs_horner.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/naive_vs_horner.png?raw=true" style="width:50%"></center>
 
 Por otro lado, sumar y restar polinomios es relativamente fácil. Sean `p` y `q` dos polinomios que queremos sumar o restar, lo podemos expresar en Python de la siguiente forma.
 Es importante notar que esta implementación es la más sencilla posible, y asume que el grado de ambos polinomios es igual, es decir, que la `len()` de los coeficientes es igual.

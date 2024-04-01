@@ -9,4 +9,4 @@ permalink: /funciones-python
 
 # Funciones en Python
 
-<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/el-libro-de-python.png"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/el-libro-de-python.png?raw=true"></center>
