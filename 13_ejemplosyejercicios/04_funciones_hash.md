@@ -22,7 +22,7 @@ print(salida)
 # f7b5c532807800c540f5e4476ea1f6d968294fc34c90f2e7e64435ea3c054ce6
 ```
 
-<center><img src="/img/hash.png"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/hash.png"></center>
 
 Existen diferentes funciones hash, y en el caso anterior hemos usado la `sha256`. Una función hash se puede ver como **una función resumen**, ya que nos permite "resumir" un conjunto de datos de longitud variable en una secuencia de longitud fija (y relativamente corta). Podríamos también meter el libro entero de El Quijote un su función hash `sha256` sería:
 

@@ -21,7 +21,7 @@ Su última versión es Python 3, y es la que te recomendamos usar ya que las ant
 
 De acuerdo con StackOverflow insights<sup><a href="https://insights.stackoverflow.com/trends" target="_blank" rel="noopener noreferrer">[2]</a></sup> en la siguiente gráfica podemos ver el número de preguntas vistas en la plataforma acerca de Pyhton. Podemos ver que Python lleva casi dos años en el podio, una auténtica burrada.
 
-<center><img src="/img/python-evolution.png"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/python-evolution.png"></center>
 
 De hecho un estudio realizado hace un tiempo en el 2017<sup><a href="https://stackoverflow.blog/2017/09/06/incredible-growth-python/" target="_blank" rel="noopener noreferrer">[3]</a></sup> ya ponía a Python como uno de los favoritos en los países con mayores ingresos como Alemania, Reino Unido o Estados Unidos entre otros.
 
@@ -60,7 +60,7 @@ Es importante el tamaño de la comunidad, porque cuanto más grande sea, mayor s
 
 Otra de las características de la comunidad Python son las famosas **PyCon**, unas convenciones anuales llevadas a cabo en gran número de países, donde los desarrolladores se reúnen para compartir ideas.
 
-<center><img src="/img/python-conf.png"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/python-conf.png"></center>
 
 
 Es también importante mencionar la **Python Software Foundation**, una organización sin ánimo de lucro que se dedica a **promover**, **proteger** y **desarrollar** el lenguaje Python.

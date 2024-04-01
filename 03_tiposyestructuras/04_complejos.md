@@ -55,7 +55,7 @@ También son usados en diferentes dominios de las matemáticas y en física, don
 
 Un número complejo puede representarse en un plano, donde el eje `x` representa la parte real y el eje `y` la imaginaria. Es decir, se puede ver a un número complejo `5+5i` como un punto de coordenadas.
 
-<center><img src="/img/complejo1.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/complejo1.png" style="width:50%"></center>
 
 Una vez representado en esta gráfica, cualquier número complejo formará un ángulo con el eje `x`. Todo número complejo tiene también un módulo, que es la distancia que une el punto del origen de coordenadas `0+0i`.
 

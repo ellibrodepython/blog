@@ -24,19 +24,19 @@ JupyterLab es un entorno de desarrollo web (se accede a el a través de Firefox,
 
 Accede a https://jupyter.org/try y busca **"Try JupyterLab"**.
 
-<center><img src="/img/jup-notebook.png" style="width:30%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/jup-notebook.png" style="width:30%"></center>
 
 
 Una vez haya cargado la página encontrarás lo siguiente. Se trata del entorno de desarrollo que se nos proporciona. A la izquierda tienes la navegación, donde están todos tus achivos y carpetas. A la derecha se pueden visualizar los ficheros **ipynb**, que es el formato de los Jupyter Notebook por excelencia.
 
-<center><img src="/img/jupyter-gui.png" style="width:70%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/jupyter-gui.png" style="width:70%"></center>
 
 
 En estos ficheros *ipynb* puedes escribir código Python y ejecutarlo, además de poder mezclarlo con texto, imágenes, animaciones y otras herramientas.
 
 Si creamos un nuevo *Notebook* con File->New->Notebook y seleccionamos como Kernel Python3, podemos empezar a crear nuestro primer código, el famoso "Hola Mundo". Haciendo click en la flecha, se puede ejecutar el código que tenemos seleccionado.
 
-<center><img src="/img/jupyter-helloworld.png" style="width:40%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/jupyter-helloworld.png" style="width:40%"></center>
 
 
 Los Notebook son una herramienta muy potente ya que:
@@ -64,7 +64,7 @@ Ambas versiones son relativamente similares, pero hay detalles o alguna que otra
 
 Una vez hayas descargado el ejecutable, ábrelo y realiza la instalación. Es importante que verifiques que se haya seleccionado la opción de "**Add Python 3.x to PATH**"
 
-<center><img src="/img/install-config.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/install-config.png" style="width:50%"></center>
 
 Una vez hayas finalizado, si abres el terminal de comandos de Windows (busca por la aplicación *cmd* o símbolo de sistema) puedes verificar que se ha instalado correctamente ejecutando el siguiente comando.
 
@@ -78,7 +78,7 @@ Python 3.8.3
 
 De hecho como hemos indicado, con esto ya podrías empezar a programar en Python en tu ordenador, pero la verdad que no es demasiado cómodo. En el último apartado te explicaremos como instalar PyCharm, un entorno de desarrollo que nos hará la vida mucho más fácil.
 
-<center><img src="/img/install-python.gif" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/install-python.gif" style="width:50%"></center>
 
 
 ### Instalar Python en macOS
@@ -150,7 +150,7 @@ Antes de nada, una breve introducción a [PyCharm](https://www.jetbrains.com/es-
 
 Para instalar PyCharm, [accede a la sección de descargas](https://www.jetbrains.com/es-es/pycharm/download/ "accede a la sección de descargas") y selecciona la versión **Community**, que es la versión gratis de desarrollo. Una vez el proceso de instalación haya acabado, deberías ver algo así al abrirlo.
 
-<center><img src="/img/pycharm-init.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/pycharm-init.png" style="width:50%"></center>
 
 
 A continuación explicaremos como crear y configurar un proyecto, para que puedas empezar a programar en Python dentro del IDE PyCharm.
@@ -162,22 +162,22 @@ Una vez hayas abierto PyCharm, realiza los siguientes pasos:
 * Asigna un nombre y di donde lo quieres guardar.
 * Te recomendamos usar *Virtualenv* para los entornos virtuales.
 
-<center><img src="/img/pycharm-venv.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/pycharm-venv.png" style="width:50%"></center>
 
 
 * En **Base Interpreter** selecciona la versión de Python que has descargado.
 * El proyecto se habrá creado. Crea un nuevo fichero Python con un nombre.
 
-<center><img src="/img/pycharm-newfile.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/pycharm-newfile.png" style="width:50%"></center>
 
 
 * Ya puedes escribir código en el fichero. Empecemos por ejemplo con un *Hola Mundo*
 
-<center><img src="/img/pycharm-helloworld.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/pycharm-helloworld.png" style="width:50%"></center>
 
 
 * Y en Run->Run o click derecho y Run, podrás ejecutar el código.
 
-<center><img src="/img/pycharm-run.png" style="width:50%"></center>
+<center><img src="https://github.com/ellibrodepython/blog/blob/main/img/pycharm-run.png" style="width:50%"></center>
 
 Una de las características más útiles en PyCharm es que se pueden instalar paquetes de manera muy sencilla a través de su interfaz gráfico. Pongamos que por ejemplo quisieras instalar la librería *numpy*. Ve a *Preferencias*, *Proyecto* y en *Proyect Interpreter* podrás añadir librerías con haciendo click en el`+`.
