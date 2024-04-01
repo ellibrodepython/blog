@@ -217,7 +217,7 @@ Podemos realizar las mismas operaciones usando `numpy`, en concreto:
 * `polysub` para restar.
 * `polymul` para multiplicar.
 
-```
+```python
 p = [3, 2, 5]
 q = [4, 0, 2]
 
