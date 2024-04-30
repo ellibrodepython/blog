@@ -10,6 +10,6 @@ permalink: /ejecutar-script-python
 
 # Ejecutar Script en Python
 
-Proximamente
+Próximamente
 
 ## Argumentos script
