@@ -17,7 +17,7 @@ Aprovechamos de paso a darte la bienvenida a nuestro libro, un lugar donde podr�
 
 Dicho esto, empecemos. A diferencia de lo que mucha gente puede pensar, Python es un lenguaje que data de los años **1990s**, y su creación se le atribuye al neerlandés Guido van Rossum<sup><a href="https://es.wikipedia.org/wiki/Guido_van_Rossum" target="_blank" rel="noopener noreferrer">[1]</a></sup>. Recibió su nombre por los humoristas Monty Python.
 
-Su última versión es Python 3, y es la que te recomendamos usar ya que las anteriores ya tienen soporte oficial. En este blog usaremos esta siempre para todo.
+Su última versión es Python 3, y es la que te recomendamos usar ya que las anteriores ya no tienen soporte oficial. En este blog usaremos esta siempre para todo.
 
 De acuerdo con StackOverflow insights<sup><a href="https://insights.stackoverflow.com/trends" target="_blank" rel="noopener noreferrer">[2]</a></sup> en la siguiente gráfica podemos ver el número de preguntas vistas en la plataforma acerca de Pyhton. Podemos ver que Python lleva casi dos años en el podio, una auténtica burrada.
 
