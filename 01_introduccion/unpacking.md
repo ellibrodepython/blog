@@ -73,9 +73,9 @@ Dado que `range` devuelve un iterador, también lo podemos usar.
 
 ```python
 a, b, c = range(3)
-print(a) # 1
-print(b) # 2
-print(c) # 3
+print(a) # 0
+print(b) # 1
+print(c) # 2
 ```
 
 
