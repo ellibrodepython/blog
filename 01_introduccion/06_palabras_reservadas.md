@@ -338,7 +338,7 @@ print(a is c) # True
 
 ## Eliminar variables: del
 
-El uso de `del` nos permite eliminar una variable del *scope*, pudiendo resultar útil cuando trabajamos con variables que almacenan gran cantidad de datos. Es una manera explícita de indicar que ya no queremos una variable, pero no olvidemos que Python tiene *gargabe collector*.
+El uso de `del` nos permite eliminar una variable del *scope*, pudiendo resultar útil cuando trabajamos con variables que almacenan gran cantidad de datos. Es una manera explícita de indicar que ya no queremos una variable, pero no olvidemos que Python tiene *garbage collector*.
 
 ```python
 a = 10
