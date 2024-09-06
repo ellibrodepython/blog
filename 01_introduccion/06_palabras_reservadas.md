@@ -284,7 +284,7 @@ print(a)
 # Salida: 1
 ```
 
-El uso de `nonlocal` es útil cuando tenemos funciones anidadas. El el siguiente ejemplo podemos ver como cuando `funcion_b` modifica `x`, también afecta a la `x` de la `funcion_a`, ya que la hemos declarado como `nonlocal`. Te invitamos a que elimines el `nonlocal` y veas el comportamiento.
+El uso de `nonlocal` es útil cuando tenemos funciones anidadas. En el siguiente ejemplo podemos ver como cuando `funcion_b` modifica `x`, también afecta a la `x` de la `funcion_a`, ya que la hemos declarado como `nonlocal`. Te invitamos a que elimines el `nonlocal` y veas el comportamiento.
 ```python
 def funcion_a():
     x = 10
@@ -304,8 +304,9 @@ funcion_a()
 # funcion_b 20
 # funcion_a 20
 ```
+Al usar `nonlocal`, el valor de `x` se modifica en el ámbito de `funcion_a` desde `funcion_b`.
 
-
+Sin `nonlocal`, Python trataría `x` dentro de `funcion_b` como una variable local a esa función, y el valor de `x` en `funcion_a` no se modificaría.
 
 ## Módulos: from, import
 
