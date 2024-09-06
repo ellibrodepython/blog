@@ -191,7 +191,7 @@ def primerosn(n):
         nums.append(i)
     return nums
     
-print(sum(firstn(100)))
+print(sum(primerosn(100)))
 # Salida: 4950
 ```
 
