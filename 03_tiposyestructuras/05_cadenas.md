@@ -131,7 +131,7 @@ Una forma un poco más moderna de realizar lo mismo, es haciendo uso de `format(
 
 ```python
 s = "Los números son {} y {}".format(5, 10)
-print(s) #Los números son {} y {}".format(5, 10)
+print(s) #Los números son 5 y 10
 ```
 
 
