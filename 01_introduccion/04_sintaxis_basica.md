@@ -73,11 +73,11 @@ de código
 '''
 ```
 
-## Identación y bloques de código
+## Indentación y bloques de código
 
-En Python los bloques de código se representan con identación, y aunque hay un poco de debate con respecto a usar tabulador o espacios, la norma general es usar **cuatro espacios**.
+En Python los bloques de código se representan con indentación, y aunque hay un poco de debate con respecto a usar tabulador o espacios, la norma general es usar **cuatro espacios**.
 
-En el siguiente código tenemos un [condicional if](/if-python). Justo después tenemos un `print()` identado con cuatro espacios. Por lo tanto, todo lo que tenga esa identación pertenecerá al bloque del if.
+En el siguiente código tenemos un [condicional if](/if-python). Justo después tenemos un `print()` indentado con cuatro espacios. Por lo tanto, todo lo que tenga esa indentación pertenecerá al bloque del if.
 
 ```python
 if True:
