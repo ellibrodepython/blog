@@ -72,7 +72,7 @@ print(c) # 3
 Dado que `range` devuelve un iterador, también lo podemos usar.
 
 ```python
-a, b, c = range(3)
+a, b, c = range(1, 4)
 print(a) # 1
 print(b) # 2
 print(c) # 3
