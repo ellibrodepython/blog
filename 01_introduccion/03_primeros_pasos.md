@@ -63,7 +63,7 @@ Es importante que sólo usemos variables que hayan sido definidas, porque de lo 
 
 ```python
 print(z)
-# Error! La variable no existe
+# NameError: name 'z' is not defined
 ```
 Tendremos un error porque Python no sabe que es `z`, ya que no ha sido declarada con anterioridad.
 
