@@ -5,7 +5,7 @@ title_nav: 📙 Iterar con enumerate
 parent: 🏄🏻‍♀️ 02. Estructuras de control
 description: Python nos da herramientas muy útiles para iterar estructuras de datos, como zip y enumerate.
 order: 22
-nav_order: i
+nav_order: j
 permalink: /enumerate-python
 ---
 

@@ -5,7 +5,7 @@ title_nav: 📕 Iteradores e Iterables
 parent: 🏄🏻‍♀️ 02. Estructuras de control
 description: Los iterator o iteradores en Python son una herramienta muy potente que se nos ofrece para "navegar" a través de objetos que sean de una clase iterable. Pueden ser usados sobre cadenas, listas o diccionarios, pero también es posible hacer que una clase sea iterable implementando el método dunder __iter__().
 order: 24
-nav_order: k
+nav_order: l
 permalink: /iterator-python
 ---
 

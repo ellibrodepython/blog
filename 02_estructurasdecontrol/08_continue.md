@@ -5,7 +5,7 @@ title_nav: 📙 Continue
 parent: 🏄🏻‍♀️ 02. Estructuras de control
 description: La sentencia continue en Python nos permite modificar el comportamiento de los bucles, saltando el código restante de la iteración actual y pasando a la siguiente en el caso de que haya.
 order: 20
-nav_order: g
+nav_order: h
 permalink: /continue-python
 ---
 
