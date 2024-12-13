@@ -2,7 +2,7 @@
 layout: default
 title: 📙 Nombrar Variables en Python
 title_nav: 📙 Nombrando Variables
-title: 🚀 09. Test y Documentación
+parent: 🚀 09. Test y Documentación
 description: El uso del guión o barra baja en Python para nombrar variables, funciones o métodos modifica en ciertas ocasiones el comportamiento de los mismos. Existen varios tipos, como los métodos mágicos.
 order: 86
 nav_order: b

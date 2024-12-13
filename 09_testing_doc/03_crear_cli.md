@@ -2,7 +2,7 @@
 layout: default
 title_nav: 📙 Argparse en Python
 title: Argparse en Python
-title: 🚀 09. Test y Documentación
+parent: 🚀 09. Test y Documentación
 description: Un Command Line Interface o Interfaz de Línea de Comandos es un método que permite a los usuarios interactuar con nuestro código, pudiendo ser usado para pasar variables al mismo. Es posible crearlos usando argparse en Python.
 order: 87
 nav_order: c
