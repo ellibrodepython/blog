@@ -5,7 +5,7 @@ title_nav: 📙 Iterar con zip
 parent: 🏄🏻‍♀️ 02. Estructuras de control
 description: El uso de la función zip en Python nos permite iterar clases iterables en paralelo. Para ello, acepta varios iterables como entrada y nos devuelve un iterador.
 order: 21
-nav_order: h
+nav_order: i
 permalink: /zip-python
 ---
 

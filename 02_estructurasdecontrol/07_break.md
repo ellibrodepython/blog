@@ -5,7 +5,7 @@ title_nav: 📙 Break
 parent: 🏄🏻‍♀️ 02. Estructuras de control
 description: El uso del break() en Python nos permite terminar prematuramente la ejecución de un bucle for o while.
 order: 19
-nav_order: f
+nav_order: g
 permalink: /break-python
 ---
 

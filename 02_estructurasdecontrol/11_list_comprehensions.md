@@ -4,7 +4,7 @@ title: 📙 List comprehensions
 parent: 🏄🏻‍♀️ 02. Estructuras de control
 description: Las list comprehension o comprensión de listas son una herramienta de Python que nos permite modificar colecciones iterables en una sola línea de código. Al igual que existen para las listas, también pueden ser usadas sobre otros tipos como sets o diccionarios.
 order: 23
-nav_order: j
+nav_order: k
 permalink: /list-comprehension-python
 ---
 

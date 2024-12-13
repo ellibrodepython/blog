@@ -11,7 +11,7 @@ permalink: /switch-python
 
 # Switch en Python
 
-El switch es una herramienta que nos permite ejecutar diferentes secciones de código dependiendo de una condición. Su funcionalidad es similar a usar varios [if](/if-python), pero por desgracia **Python no tiene un switch** propiamente dicho. Sin embargo, hay formas de simular su comportamiento que te explicamos a continuación.
+El switch es una herramienta que nos permite ejecutar diferentes secciones de código dependiendo de una condición. Su funcionalidad es similar a usar varios [if](/if-python), pero por desgracia **Python no tiene un switch** propiamente dicho. Sin embargo, hay formas de simular su comportamiento que te explicamos a continuación. También ofrece el [match](/match-python), algo parecido que se introdujo en Python 3.10.
 
 ## Introducción al switch
 
