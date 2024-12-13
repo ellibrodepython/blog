@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📗 Hash en Python
-parent: 🔬 13. Ejemplos y ejercicios
 description: Las funciones hash permiten resumir una información de longitud variable en una secuencia de longitud fija. Son muy usadas en el mundo blockchain y con la librería de Python hashlib podemos calcular las más tipicas como la sha256.
 order: 96
 nav_order: d
 permalink: /hash-python
+nav_exclude: true
 ---
 
 # Hash en Python

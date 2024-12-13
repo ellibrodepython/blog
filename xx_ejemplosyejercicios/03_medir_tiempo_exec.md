@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 Medir tiempo ejecución
-parent: 🔬 13. Ejemplos y ejercicios
 description: Puedes medir el tiempo de ejecución de tus programas en Python de diferentes maneras. Para fragmentos de código pequeños puedes usar timeit y para más largos time. Ambos paquetes vienen por defecto con Python.
 order: 95
 nav_order: c
 permalink: /tiempo-ejecucion-python
+nav_exclude: true
 ---
 
 # Medir tiempo de ejecución

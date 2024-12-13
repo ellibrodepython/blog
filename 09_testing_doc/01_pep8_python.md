@@ -2,7 +2,7 @@
 layout: default
 title: Python PEP8
 title_nav: 📙 Python PEP8
-parent: 🚀 11. Test, Documentación y Consejos
+parent: 🚀 09. Test y Documentación
 description: La PEP8 en Python es una Python Enhancement Proposal que presenta las directrices a seguir para escribir código Python. Nos indica cómo debemos nombrar las variables, cuando usar espacios, cómo organizar el código, y en general cómo formatearlo para que resulte fácil de leer. Cualquier código que forme parte de la librería estándar debe seguir esta norma.
 order: 85
 nav_order: a

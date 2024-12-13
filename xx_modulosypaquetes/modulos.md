@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 Módulos en Python
-parent: 📚 10. Modulos y paquetes
 description: Un módulo en Python es un fichero que alberga funciones, variables o clases. Un módulo puede ser importado y usado por otro módulo o fichero. Se trata de una herramienta muy útil a la hora de organizar nuestro código.
 order: 83
 nav_order: a
 permalink: /modulos-python
+nav_exclude: true
 ---
 
 # Módulos en Python

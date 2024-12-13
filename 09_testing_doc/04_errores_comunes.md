@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 📙 Errores Comunes
-parent: 🚀 11. Test, Documentación y Consejos
+parent: 🚀 09. Test y Documentación
 description: xx
 order: 88
 nav_order: d

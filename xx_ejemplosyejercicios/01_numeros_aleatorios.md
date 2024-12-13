@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📗 Números aleatorios
-parent: 🔬 13. Ejemplos y ejercicios
 description: Generar números aleatorios en Python es por suerte una tarea muy fácil usando la librería random. Existen diferentes funciones que nos permiten generar números enteros o decimales aleatorios como la función random(), la uniform() o randint().
 order: 93
 nav_order: a
 permalink: /numeros-aleatorios-python
+nav_exclude: true
 ---
 
 # Números aleatorios Python

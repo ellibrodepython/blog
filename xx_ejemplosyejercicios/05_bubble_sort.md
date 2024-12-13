@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 Bubble Sort en Python
-parent: 🔬 13. Ejemplos y ejercicios
 description: Bubble Sort en Python es un algoritmo de ordenación que permite ordenar listas de manera sencilla y sin requerir un extra de memoria. No es el algoritmo más eficiente pero si de los más sencillos, con una complejidad O(n^2) y O(n) en el mejor de los casos.
 order: 96
 nav_order: d
 permalink: /bubble-sort
+nav_exclude: true
 ---
 
 # Bubble Sort en Python

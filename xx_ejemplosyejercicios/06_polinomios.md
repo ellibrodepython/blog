@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 Polinomios en Python
-parent: 🔬 13. Ejemplos y ejercicios
 description: Los polinomios son expresiones algebraicas formadas por la suma de varios términos. Tienen aplicación en finanzas, criptografía, matemáticas estadística e ingeniería. Vemos cómo usarlos en Python.
 order: 97
 nav_order: e
 permalink: /polinomios
+nav_exclude: true
 ---
 
 ## Introducción a Polinomios

@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 Números primos
-parent: 🔬 13. Ejemplos y ejercicios
 description: Los números primos son aquellos que sólo son divisibles por uno y por sí mismos. Por lo tanto los números 2, 3, 5, 7, 11 son primos. Puede implementarse de varias formas en Python, con bucles o de forma recursiva.
 order: 94
 nav_order: b
 permalink: /numeros-primos-python
+nav_exclude: true
 ---
 
 # Números primos Python

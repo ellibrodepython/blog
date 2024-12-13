@@ -2,7 +2,7 @@
 layout: default
 title: 📙 Testing con assert y unittest en Python
 title_nav: 📙 Testing con assert y unittest
-parent: 🚀 11. Test, Documentación y Consejos
+parent: 🚀 09. Test y Documentación
 description: Python nos permite hacer testing del código con librerías como unittest o de una manera más sencilla con assert. Dentro de los tests, podemos dividirlos en unitarios y de integración, pudiendo ser ejecutados manualmente o de manera automática. Para los test que tengan dependencias externas, Python nos ofrece el monkey patching para hacer un mock de las mismas.
 order: 90
 nav_order: f
