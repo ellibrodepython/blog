@@ -2,7 +2,7 @@
 layout: default
 title: Escribir Código Pythonico
 title_nav: 📙 Código Pythonico
-parent: 🚀 11. Test, Documentación y Consejos
+title: 🚀 09. Test y Documentación
 description: xx
 order: 89
 nav_order: e

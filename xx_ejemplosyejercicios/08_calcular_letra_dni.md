@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 Calcular letra DNI
-parent: 🔬 13. Ejemplos y ejercicios
 description: Calcular la letra del DNI se puede hacer obteniendo el módulo 23 del DNI.
 order: 98
 nav_order: f
 permalink: /calcular-letra-dni
+nav_exclude: true
 ---
 
 # Letra DNI

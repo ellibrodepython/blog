@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 moviepy, edición de vídeo
-parent: 🚜 14. Usando paquetes externos
 description: Edita, corta y pega vídeos usando Python y la libería moviepy
 order: 98
 nav_order: a
 permalink: /moviepy-python
+nav_exclude: true
 ---
 
 # moviepy: Editar vídeo con Python

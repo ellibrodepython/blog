@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 📙 Criptografía Asimétrica
-parent: 🔬 13. Ejemplos y ejercicios
 description: La criptografía asimétrica o criptografía de clave pública es un sistema criptográfico donde existen dos claves relacionadas matemáticamente, una pública y una privada. Puede ser usada para encriptar información o firmar mensajes.
 order: 97
 nav_order: e
 permalink: /criptografia-asimetrica
+nav_exclude: true
 ---
 
 # Criptografía Asimétrica
