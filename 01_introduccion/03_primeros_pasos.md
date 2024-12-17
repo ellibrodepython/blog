@@ -26,7 +26,7 @@ Por lo tanto ya te puedes imaginar que la función `print()` sirve para imprimir
 
 ## Definiendo variables en Python
 
-Vamos a complicar un poco más las cosas. Creemos una variable que almacene un número. A diferencia de otros lenguajes de programación, no es necesario decirle a Python el tipo de dato que queremos almacenar en `x`. En otro lenguajes es necesario especificar que `x` almacenará un valor entero, pero no es el caso. Python es muy listo y al ver el número `5`, sabrá de que tipo tiene que ser la `x`.
+Vamos a complicar un poco más las cosas. Creemos una variable que almacene un número. A diferencia de otros lenguajes de programación, no es necesario decirle a Python el tipo de dato que queremos almacenar en `x`. En otros lenguajes es necesario especificar que `x` almacenará un valor entero, pero no es el caso. Python es muy listo y al ver el número `5`, sabrá de que tipo tiene que ser la `x`.
 
 ```python
 x = 5

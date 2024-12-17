@@ -26,7 +26,7 @@ if ($variable){
 
 Lo veremos a continuación en detalle, pero Python no soporta el uso de `$` ni hace falta terminar las líneas con `;` como en otros lenguajes, y tampoco hay que usar `{}` en estructuras de control como en el if.
 
-Por otro lado, de la misma forma que un idioma no se habla son simplemente saber todas sus palabras, en la programación no basta con saber la sintaxis de un lenguaje para programar correctamente en el. Es cierto que sabiendo la sintaxis podremos empezar a programar y a hacer lo que queramos, pero **el uso de un lenguaje de programación va mucho más allá de la sintaxis**.
+Por otro lado, de la misma forma que un idioma no se habla con simplemente saber todas sus palabras, en la programación no basta con saber la sintaxis de un lenguaje para programar correctamente en él. Es cierto que sabiendo la sintaxis podremos empezar a programar y a hacer lo que queramos, pero **el uso de un lenguaje de programación va mucho más allá de la sintaxis**.
 
 Para empezar a perderle el miedo a la sintaxis de Python, vamos a ver un ejemplo donde vemos [cadenas](/cadenas-python), [operadores aritméticos](/operadores-aritmeticos) y el uso del condicional [if](/if-python).
 
