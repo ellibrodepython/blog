@@ -22,11 +22,11 @@ Los operadores a nivel de bit o *bitwise operators* son operadores que **actúan
 <tbody>
 <tr>
 <td>|</td>
-<td>And bit a bit</td>
+<td>Or bit a bit</td>
 </tr>
 <tr>
 <td>&</td>
-<td>Or bit a bit</td>
+<td>And bit a bit</td>
 </tr>
 <tr>
 <td>~</td>
